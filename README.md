@@ -1,5 +1,5 @@
 # tabs
-![randomcolor](https://github.com/javadashtiani/randomcolor/assets/134012615/20bf1613-f917-41eb-816b-55c0cb8e04b6)
+![tabs](https://github.com/javadashtiani/tabs/assets/134012615/667feac0-3eb3-4533-9abb-b18ed79d90a8)
 - 🔗 https://javadashtiani.github.io/tabs/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
